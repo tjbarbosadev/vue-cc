@@ -85,8 +85,7 @@
       }
     },
     {
-      "id": "0069",
-      "title": "wqe",
+      "title": "Qyuw",
       "type": "Full-Time",
       "location": "qwe",
       "description": "qwe",
@@ -96,21 +95,8 @@
         "description": "qwe",
         "contactEmail": "xanhenha@gmail.com",
         "contactPhone": "11944160710"
-      }
-    },
-    {
-      "id": "826f",
-      "title": "qwe",
-      "type": "Full-Time",
-      "location": "qwe",
-      "description": "qwe",
-      "salary": "Under $50K",
-      "company": {
-        "name": "qwe",
-        "description": "qew",
-        "contactEmail": "xanhenha@gmail.com",
-        "contactPhone": "11944160710"
-      }
+      },
+      "id": "0069"
     }
   ]
 }
